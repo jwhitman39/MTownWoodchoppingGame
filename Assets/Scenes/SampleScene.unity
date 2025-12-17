@@ -203,7 +203,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 308.6, y: -232}
+  m_AnchoredPosition: {x: 313.64798, y: -388}
   m_SizeDelta: {x: 455, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &143298736
@@ -445,7 +445,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.039934717, g: 0.23584908, b: 0.030037384, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1004,7 +1004,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -446, y: -264}
+  m_AnchoredPosition: {x: -439, y: -388}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1293638205
@@ -1159,7 +1159,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 308.95203, y: -201}
+  m_AnchoredPosition: {x: 314, y: -357}
   m_SizeDelta: {x: 455, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1350872710
@@ -1817,11 +1817,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4055667193906734561, guid: 4f8322d028f6afe4e8bb0e9dac0429d3, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -302.74112
+      value: -302.74
       objectReference: {fileID: 0}
     - target: {fileID: 4055667193906734561, guid: 4f8322d028f6afe4e8bb0e9dac0429d3, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -264
+      value: -388
       objectReference: {fileID: 0}
     - target: {fileID: 4055667193906734561, guid: 4f8322d028f6afe4e8bb0e9dac0429d3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
